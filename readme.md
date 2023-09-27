@@ -19,7 +19,7 @@
 
 4. Grid para definir a estrutura da minha pagina
 
-5. Media Querys para definir los puntos de quebra de nosso layout 
+5. Media Querys para definir os pontos de quebra de nosso layout 
 
 
 #  💻🔧 Tecnologias
